@@ -1,2 +1,4 @@
 # hello.world
-my first repository!!!
+my first repository!!
+a repository that will be linked with RStudio
+
